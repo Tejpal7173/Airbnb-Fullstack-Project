@@ -1,1 +1,2 @@
-# Airbnb-Fullstack-Project
+Airbnb-Fullstack-Project
+An Airbnb Fullstack Project in JavaScript involves creating a platform similar to Airbnb, where users can book accommodations, host listings, and interact with each other. The project requires both front-end and back-end development to mimic real-world functionality. Front-End: React.js, HTML5, CSS3, JavaScript (ES6+). Back-End: Node.js, Express.js, JWT for authentication Database: MongoDB or PostgreSQL Authentication: JWT, Passport.js, bcrypt for password hashing Deployment: Vercel, Netlify (front-end), Heroku, AWS (back-end) MVC model.
